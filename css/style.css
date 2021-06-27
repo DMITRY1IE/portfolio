@@ -74,6 +74,10 @@ img {
     transform: translate(-50%, 0);
 }
 
+.header-arrow:hover {
+    bottom: 20px;
+}
+
 /* portfolio */
 
 .portfolio {
