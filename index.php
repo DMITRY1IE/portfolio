@@ -16,7 +16,7 @@
     <!-- header(чердак) -->
     <div class="header">
 
-        <h1 class="header-title">Дмитрий Ложкин</h1>
+        <h1 class="header-title">Дмитрий Ложкин<?php echo('hello') ?></h1>
 
         <p class="header-subtitle">фрилансер, веб-разработчик, создатель сайтов</p>
 
